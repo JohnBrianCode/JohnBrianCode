@@ -5,6 +5,7 @@
 - 📫 How to reach me :call me baby.
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: Im 2meters tall.
+- 👶 My sons name is Jost.
 
 <!---
 JohnBrianCode/JohnBrianCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
