@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JohnBrianCode
 - 👀 I’m interested in young individuals
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on your mother.
+- 🌱 I’m currently learning coding.
 - 📫 How to reach me :call me baby.
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: Im 2meters tall.
